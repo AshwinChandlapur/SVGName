@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
+<pattern  y="560" width="72" height="72" patternUnits="userSpaceOnUse" id="Unnamed_Pattern_3" viewBox="20 -72 72 72" overflow="visible">
+	<g>
+		<polygon fill="none" points="20,0 92,0 92,-72 20,-72 		"/>
+		<g>
+			<polygon fill="none" points="20,-72 20,0 92,0 92,-72 			"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="19.8" y1="-68.4" x2="92.3" y2="-68.4"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="19.8" y1="-54" x2="92.3" y2="-54"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="19.8" y1="-39.6" x2="92.3" y2="-39.6"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="19.8" y1="-25.2" x2="92.3" y2="-25.2"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="19.8" y1="-10.8" x2="92.3" y2="-10.8"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="0" y1="-10.8" x2="14" y2="-10.8"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="19.8" y1="-61.2" x2="92.3" y2="-61.2"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="19.8" y1="-46.8" x2="92.3" y2="-46.8"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="19.8" y1="-32.4" x2="92.3" y2="-32.4"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="19.8" y1="-18" x2="92.3" y2="-18"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="19.8" y1="-3.6" x2="92.3" y2="-3.6"/>
+			<line fill="none" stroke="#231F20" stroke-width="3.6" x1="0" y1="-3.6" x2="14" y2="-3.6"/>
+		</g>
+	</g>
+</pattern>
+<g>
+	<polygon fill="#FFAB45" points="251,314.4 231.7,258 225.1,277 218.8,295.6 225.2,314.4 	"/>
+	<pattern  id="SVGID_1_" xlink:href="#Unnamed_Pattern_4" patternTransform="matrix(1 0 0 -1 -16.6 -16477)">
+	</pattern>
+	<polygon fill="url(#SVGID_1_)" points="251,314.4 231.7,258 225.1,277 218.8,295.6 225.2,314.4 	"/>
+	<path fill="#73B5A2" d="M231.7,258l-12.9-37.6L231.7,258z"/>
+	<polygon fill="#73B5A2" points="218.8,295.6 205.9,258 218.8,220.4 192.7,296.4 192.7,296.4 186.6,314.4 212.3,314.4 218.8,295.6 
+		225.1,277 	"/>
+	<pattern  id="SVGID_2_" xlink:href="#Unnamed_Pattern_3" patternTransform="matrix(1 0 0 -1 -20 -16600)">
+	</pattern>
+	<polygon fill="url(#SVGID_2_)" points="218.8,295.6 205.9,258 218.8,220.4 192.7,296.4 192.7,296.4 186.6,314.4 212.3,314.4 
+		218.8,295.6 225.1,277 	"/>
+	<path fill="#44284F" d="M218.8,295.6l6.4-18.5l6.5-19.1l0,0l0,0l-12.9-37.6L205.9,258L218.8,295.6z M218.8,261.5l5.7,16.7l0,0H213
+		L218.8,261.5z"/>
+	
+		<animateTransform  fill="remove" type="translate" restart="always" to="0" dur="1s" from="700" attributeType="XML" attributeName="transform" calcMode="linear" additive="replace" accumulate="none" repeatCount="1">--a
+		</animateTransform>
+</g>
+<g>
+	<polygon fill="#73B5A2" points="403.5,258.2 403.5,221.5 377.8,221.5 377.8,258.2 377.8,278.9 377.8,315.5 403.5,315.5 
+		403.5,278.9 416.4,278.9 416.4,258.2 	"/>
+	<pattern  id="SVGID_3_" xlink:href="#Unnamed_Pattern_3" patternTransform="matrix(1 0 0 -1 -20 -16600)">
+	</pattern>
+	<polygon fill="url(#SVGID_3_)" points="403.5,258.2 403.5,221.5 377.8,221.5 377.8,258.2 377.8,278.9 377.8,315.5 403.5,315.5 
+		403.5,278.9 416.4,278.9 416.4,258.2 	"/>
+	<rect x="416.4" y="221.5" fill="#FFAB45" width="25.8" height="36.7"/>
+	<rect x="416.4" y="278.9" fill="#FFAB45" width="25.8" height="36.7"/>
+	<pattern  id="SVGID_4_" xlink:href="#Unnamed_Pattern_4" patternTransform="matrix(1 0 0 -1 -16.6 -16477)">
+	</pattern>
+	<rect x="416.4" y="221.5" fill="url(#SVGID_4_)" width="25.8" height="36.7"/>
+	<pattern  id="SVGID_5_" xlink:href="#Unnamed_Pattern_4" patternTransform="matrix(1 0 0 -1 -16.6 -16477)">
+	</pattern>
+	<rect x="416.4" y="278.9" fill="url(#SVGID_5_)" width="25.8" height="36.7"/>
+	<polygon fill="#44284F" points="416.4,258.2 416.4,278.9 442.2,278.9 442.2,258.2 442.2,258.2 	"/>
+	
+		<animateTransform  fill="remove" type="translate" restart="always" to="0" dur="1.4s" from="700" attributeType="XML" attributeName="transform" calcMode="linear" additive="replace" accumulate="none" repeatCount="1">--h
+		</animateTransform>
+</g>
+<g>
+	<rect x="582.3" y="221.9" fill="#73B5A2" width="25.8" height="94"/>
+	<pattern  id="SVGID_6_" xlink:href="#Unnamed_Pattern_3" patternTransform="matrix(1 0 0 -1 -20 -16600)">
+	</pattern>
+	<rect x="582.3" y="221.9" fill="url(#SVGID_6_)" width="25.8" height="94"/>
+	<rect x="582.3" y="268.9" fill="#FFAB45" width="25.8" height="47"/>
+	<pattern  id="SVGID_7_" xlink:href="#Unnamed_Pattern_4" patternTransform="matrix(1 0 0 -1 -16.6 -16477)">
+	</pattern>
+	<rect x="582.3" y="268.9" fill="url(#SVGID_7_)" width="25.8" height="47"/>
+	<rect x="582.3" y="258.6" fill="#44284F" width="25.8" height="20.7"/>
+	
+		<animateTransform  fill="remove" type="translate" restart="always" to="0" dur="2s" from="700" attributeType="XML" attributeName="transform" calcMode="linear" additive="replace" accumulate="none" repeatCount="1">--i
+		</animateTransform>
+</g>
+<g>
+	<path fill="#73B5A2" d="M300,253.4c0,0.1,0.1,0.2,0.1,0.2C300,253.5,300,253.4,300,253.4z"/>
+	<path fill="#73B5A2" d="M299.4,252.3c0.1,0.1,0.1,0.2,0.2,0.3C299.5,252.6,299.4,252.4,299.4,252.3z"/>
+	<path fill="#73B5A2" d="M298.5,250.1c0,0.2,0.1,0.4,0.1,0.5C298.6,250.4,298.6,250.3,298.5,250.1z"/>
+	<path fill="#73B5A2" d="M298.9,251.2c0.1,0.1,0.1,0.3,0.2,0.4C299,251.5,298.9,251.4,298.9,251.2z"/>
+	<path fill="#73B5A2" d="M298.2,246.1c0,0.4-0.1,0.8-0.1,1.2C298.1,246.8,298.2,246.5,298.2,246.1z"/>
+	<path fill="#73B5A2" d="M298.1,247.2c0,0.4,0,0.8,0.1,1.2C298.2,248,298.1,247.6,298.1,247.2z"/>
+	<path fill="#73B5A2" d="M298.4,244.9c0,0.2-0.1,0.4-0.1,0.6C298.3,245.4,298.3,245.2,298.4,244.9z"/>
+	<path fill="#73B5A2" d="M298.3,248.9c0,0.2,0.1,0.4,0.1,0.6C298.3,249.3,298.3,249.1,298.3,248.9z"/>
+	<path fill="#73B5A2" d="M301.4,239.3C301.4,239.2,301.5,239.2,301.4,239.3C301.5,239.2,301.4,239.2,301.4,239.3z"/>
+	<path fill="#73B5A2" d="M301.5,255.3C301.5,255.3,301.4,255.2,301.5,255.3C301.4,255.2,301.5,255.3,301.5,255.3z"/>
+	<path fill="#73B5A2" d="M309.5,235.8L309.5,235.8h33.6v-17.4h-33.6V235.8L309.5,235.8z"/>
+	<pattern  id="SVGID_8_" xlink:href="#Unnamed_Pattern_3" patternTransform="matrix(1 0 0 -1 -20 -16600)">
+	</pattern>
+	<path fill="url(#SVGID_8_)" d="M309.5,235.8L309.5,235.8h33.6v-17.4h-33.6V235.8L309.5,235.8z"/>
+	<path fill="#73B5A2" d="M302.3,256L302.3,256L302.3,256z"/>
+	<path fill="#73B5A2" d="M309.5,258.7L309.5,258.7L309.5,258.7L309.5,258.7L309.5,258.7z"/>
+	<path fill="#73B5A2" d="M300.6,254.3c0,0.1,0.1,0.1,0.1,0.2C300.7,254.4,300.7,254.4,300.6,254.3z"/>
+	<path fill="#73B5A2" d="M299.5,241.8c-0.1,0.1-0.1,0.2-0.2,0.3C299.4,242,299.5,241.9,299.5,241.8z"/>
+	<path fill="#73B5A2" d="M302.3,238.5L302.3,238.5L302.3,238.5z"/>
+	<path fill="#73B5A2" d="M299,242.8c-0.1,0.1-0.1,0.3-0.2,0.4C298.9,243.1,299,243,299,242.8z"/>
+	<path fill="#73B5A2" d="M298.7,243.9c-0.1,0.2-0.1,0.4-0.1,0.5C298.6,244.2,298.6,244,298.7,243.9z"/>
+	<path fill="#73B5A2" d="M300.1,240.9c-0.1,0.1-0.1,0.2-0.1,0.2C300,241,300,241,300.1,240.9z"/>
+	<path fill="#73B5A2" d="M300.7,240c0,0-0.1,0.1-0.1,0.2C300.7,240.1,300.7,240.1,300.7,240z"/>
+	<path fill="#73B5A2" d="M322.7,258.7h-1.5C321.7,258.7,322.2,258.7,322.7,258.7L322.7,258.7z"/>
+	<path fill="#FFAB45" d="M322.7,258.7c-0.5,0-1,0-1.5,0h-11.7h-0.1V276h9.7c6.3,0,11.5,5.2,11.5,11.5s-5.2,11.5-11.5,11.5h-9.7v17.3
+		h11.7c15.8,0,28.8-13,28.8-28.8C350,272.1,337.9,259.5,322.7,258.7z"/>
+	<pattern  id="SVGID_9_" xlink:href="#Unnamed_Pattern_4" patternTransform="matrix(1 0 0 -1 -16.6 -16477)">
+	</pattern>
+	<path fill="url(#SVGID_9_)" d="M322.7,258.7c-0.5,0-1,0-1.5,0h-11.7h-0.1V276h9.7c6.3,0,11.5,5.2,11.5,11.5s-5.2,11.5-11.5,11.5
+		h-9.7v17.3h11.7c15.8,0,28.8-13,28.8-28.8C350,272.1,337.9,259.5,322.7,258.7z"/>
+	<path fill="#44284F" d="M309.5,258.7L309.5,258.7L309.5,258.7c-2.7,0-5.3-1-7.2-2.6l0,0c-0.3-0.2-0.5-0.5-0.8-0.7
+		c0,0,0-0.1-0.1-0.1c-0.2-0.2-0.5-0.5-0.7-0.7c0,0-0.1-0.1-0.1-0.2c-0.2-0.2-0.4-0.5-0.5-0.7c-0.1-0.1-0.1-0.2-0.1-0.2
+		c-0.1-0.2-0.3-0.5-0.4-0.7c-0.1-0.1-0.1-0.2-0.2-0.3c-0.1-0.2-0.2-0.4-0.3-0.7c-0.1-0.1-0.1-0.3-0.2-0.4c-0.1-0.2-0.2-0.4-0.2-0.6
+		c-0.1-0.2-0.1-0.4-0.1-0.5c0-0.2-0.1-0.4-0.1-0.5c0-0.2-0.1-0.4-0.1-0.6c0-0.2-0.1-0.3-0.1-0.5c0-0.4-0.1-0.8-0.1-1.2
+		s0-0.8,0.1-1.2c0-0.2,0.1-0.3,0.1-0.5s0.1-0.4,0.1-0.6c0-0.2,0.1-0.4,0.1-0.5c0-0.2,0.1-0.4,0.1-0.5c0.1-0.2,0.1-0.4,0.2-0.6
+		c0.1-0.1,0.1-0.3,0.2-0.4c0.1-0.2,0.2-0.4,0.3-0.7c0.1-0.1,0.1-0.2,0.2-0.3c0.1-0.2,0.3-0.5,0.4-0.7c0-0.1,0.1-0.2,0.1-0.2
+		c0.2-0.3,0.4-0.5,0.5-0.7c0-0.1,0.1-0.1,0.1-0.2c0.2-0.3,0.4-0.5,0.7-0.7c0,0,0-0.1,0.1-0.1c0.2-0.2,0.5-0.5,0.8-0.7l0,0
+		c2-1.6,4.5-2.6,7.2-2.6l0,0v-17.4h-2c-15.8,0-28.8,13-28.8,28.8c0,15.1,11.8,27.6,26.6,28.7h3.9v-17.3h0.3V258.7z"/>
+	<rect x="309.2" y="258.7" fill="#FFAB45" width="0.3" height="17.3"/>
+	<rect x="285.6" y="299" fill="#44284F" width="23.9" height="17.3"/>
+	
+		<animateTransform  fill="remove" type="translate" restart="always" to="0" dur="1.2s" from="700" attributeType="XML" attributeName="transform" calcMode="linear" additive="replace" accumulate="none" repeatCount="1">--s
+		</animateTransform>
+</g>
+<g>
+	<polygon fill="#73B5A2" points="482.8,221.1 502.1,277.5 489.2,315.1 463.2,239 463.2,239 457,221.1 	"/>
+	<polygon fill="#FFAB45" points="521.4,221.1 489.2,315.1 476.3,277.5 495.7,221.1 	"/>
+	<pattern  id="SVGID_10_" xlink:href="#Unnamed_Pattern_4" patternTransform="matrix(1 0 0 -1 -16.6 -16477)">
+	</pattern>
+	<polygon fill="url(#SVGID_10_)" points="521.4,221.1 489.2,315.1 476.3,277.5 495.7,221.1 	"/>
+	<polygon fill="#73B5A2" points="482.8,221.1 502.1,277.5 489.2,315.1 463.2,239 463.2,239 457,221.1 	"/>
+	<pattern  id="SVGID_11_" xlink:href="#Unnamed_Pattern_3" patternTransform="matrix(1 0 0 -1 -20 -16600)">
+	</pattern>
+	<polygon fill="url(#SVGID_11_)" points="482.8,221.1 502.1,277.5 489.2,315.1 463.2,239 463.2,239 457,221.1 	"/>
+	<polygon fill="#44284F" points="489.2,239.9 502.1,277.5 489.2,315.1 476.3,277.5 	"/>
+	<polygon fill="#FFAB45" points="560.1,221.1 527.9,315.1 515,277.5 534.3,221.1 	"/>
+	<pattern  id="SVGID_12_" xlink:href="#Unnamed_Pattern_4" patternTransform="matrix(1 0 0 -1 -16.6 -16477)">
+	</pattern>
+	<polygon fill="url(#SVGID_12_)" points="560.1,221.1 527.9,315.1 515,277.5 534.3,221.1 	"/>
+	<polygon fill="#73B5A2" points="521.4,221.1 540.8,277.5 527.9,315.1 501.8,239 501.8,239 495.7,221.1 	"/>
+	<polygon fill="#73B5A2" points="521.4,221.1 540.8,277.5 527.9,315.1 501.8,239 501.8,239 495.7,221.1 	"/>
+	<pattern  id="SVGID_13_" xlink:href="#Unnamed_Pattern_3" patternTransform="matrix(1 0 0 -1 -20 -16600)">
+	</pattern>
+	<polygon fill="url(#SVGID_13_)" points="521.4,221.1 540.8,277.5 527.9,315.1 501.8,239 501.8,239 495.7,221.1 	"/>
+	<polygon fill="#44284F" points="508.5,258.7 501.8,239 501.8,239 495.7,221.1 521.4,221.1 	"/>
+	<polygon fill="#44284F" points="527.9,239.9 540.8,277.5 527.9,315.1 515,277.5 	"/>
+	
+		<animateTransform  fill="remove" type="translate" restart="always" to="0" dur="1.8s" from="700" attributeType="XML" attributeName="transform" calcMode="linear" additive="replace" accumulate="none" repeatCount="1">--w
+		</animateTransform>
+</g>
+<g>
+	<polygon fill="#73B5A2" points="685.2,277.1 685.2,277.1 646.5,220.7 646.5,314.7 669.5,314.7 669.5,291.9 685.1,314.7 
+		685.2,314.7 	"/>
+	<pattern  id="SVGID_14_" xlink:href="#Unnamed_Pattern_3" patternTransform="matrix(1 0 0 -1 -20 -16600)">
+	</pattern>
+	<polygon fill="url(#SVGID_14_)" points="685.2,277.1 685.2,277.1 646.5,220.7 646.5,314.7 669.5,314.7 669.5,291.9 685.1,314.7 
+		685.2,314.7 	"/>
+	<polygon fill="#FFAB45" points="710.9,314.7 710.9,220.7 685.2,220.7 685.2,277.1 685.2,277.1 	"/>
+	<pattern  id="SVGID_15_" xlink:href="#Unnamed_Pattern_4" patternTransform="matrix(1 0 0 -1 -16.6 -16477)">
+	</pattern>
+	<polygon fill="url(#SVGID_15_)" points="710.9,314.7 710.9,220.7 685.2,220.7 685.2,277.1 685.2,277.1 	"/>
+	<polygon fill="#44284F" points="685.2,314.7 710.9,314.7 685.2,277.1 	"/>
+	
+		
+		<animateTransform  fill="remove" type="translate" restart="always" to="0" dur="2.2s" from="700" attributeType="XML" attributeName="transform" calcMode="linear" additive="replace" accumulate="none" repeatCount="1">----n
+		</animateTransform>
+</g>
+<pattern  y="560" width="28.8" height="28.8" patternUnits="userSpaceOnUse" id="Unnamed_Pattern_4" viewBox="16.6 -31 28.8 28.8" overflow="visible">
+	<g>
+		<polygon fill="none" points="16.6,-2.2 45.4,-2.2 45.4,-31 16.6,-31 		"/>
+		<g>
+			<polygon fill="none" points="16.6,-31 16.6,-2.2 45.4,-2.2 45.4,-31 			"/>
+			<path fill="#231F20" d="M45.4-33.2c1.2,0,2.2,1,2.2,2.2c0,1.2-1,2.2-2.2,2.2s-2.2-1-2.2-2.2C43.2-32.2,44.2-33.2,45.4-33.2z"/>
+			<path fill="#231F20" d="M31-33.2c1.2,0,2.2,1,2.2,2.2c0,1.2-1,2.2-2.2,2.2s-2.2-1-2.2-2.2C28.8-32.2,29.8-33.2,31-33.2z"/>
+			<path fill="#231F20" d="M16.6-33.2c1.2,0,2.2,1,2.2,2.2c0,1.2-1,2.2-2.2,2.2s-2.2-1-2.2-2.2C14.4-32.2,15.4-33.2,16.6-33.2z"/>
+			<path fill="#231F20" d="M45.4-18.8c1.2,0,2.2,1,2.2,2.2s-1,2.2-2.2,2.2s-2.2-1-2.2-2.2S44.2-18.8,45.4-18.8z"/>
+			<path fill="#231F20" d="M31-18.8c1.2,0,2.2,1,2.2,2.2s-1,2.2-2.2,2.2s-2.2-1-2.2-2.2S29.8-18.8,31-18.8z"/>
+			<path fill="#231F20" d="M16.6-18.8c1.2,0,2.2,1,2.2,2.2s-1,2.2-2.2,2.2s-2.2-1-2.2-2.2C14.4-17.8,15.4-18.8,16.6-18.8z"/>
+			<path fill="#231F20" d="M45.4-4.4c1.2,0,2.2,1,2.2,2.2S46.6,0,45.4,0s-2.2-1-2.2-2.2S44.2-4.4,45.4-4.4z"/>
+			<path fill="#231F20" d="M31-4.4c1.2,0,2.2,1,2.2,2.2S32.2,0,31,0s-2.2-1-2.2-2.2S29.8-4.4,31-4.4z"/>
+			<path fill="#231F20" d="M16.6-4.4c1.2,0,2.2,1,2.2,2.2S17.8,0,16.6,0s-2.2-1-2.2-2.2C14.4-3.4,15.4-4.4,16.6-4.4z"/>
+			<path fill="#231F20" d="M2.2-4.4c1.2,0,2.2,1,2.2,2.2S3.4,0,2.2,0C1-0.1,0-1,0-2.2S1-4.4,2.2-4.4z"/>
+			<path fill="#231F20" d="M2.2-2.2"/>
+			<path fill="#231F20" d="M23.8-26c1.2,0,2.2,1,2.2,2.2s-1,2.2-2.2,2.2s-2.2-1-2.2-2.2C21.6-25,22.6-26,23.8-26z"/>
+			<path fill="#231F20" d="M38.2-26c1.2,0,2.2,1,2.2,2.2s-1,2.2-2.2,2.2s-2.2-1-2.2-2.2S37-26,38.2-26z"/>
+			<path fill="#231F20" d="M23.8-11.6c1.2,0,2.2,1,2.2,2.2s-1,2.2-2.2,2.2s-2.2-1-2.2-2.2C21.6-10.6,22.6-11.6,23.8-11.6z"/>
+			<path fill="#231F20" d="M38.2-11.6c1.2,0,2.2,1,2.2,2.2s-1,2.2-2.2,2.2S36-8.2,36-9.4S37-11.6,38.2-11.6z"/>
+			<path fill="#231F20" d="M9.4-11.6c1.2,0,2.2,1,2.2,2.2s-1,2.2-2.2,2.2s-2.2-1-2.2-2.2S8.2-11.6,9.4-11.6z"/>
+			<path fill="#231F20" d="M9.4-9.4"/>
+			
+				<animateTransform  fill="remove" type="translate" restart="always" to="100" dur="1s" from="0" attributeType="XML" attributeName="transform" calcMode="linear" additive="replace" accumulate="none" repeatCount="indefinite">
+				</animateTransform>
+		</g>
+	</g>
+</pattern>
+
+</svg>
